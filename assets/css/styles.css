@@ -508,7 +508,9 @@ the website, in dark theme
 
 .product__img{
   position: relative;
-  width: 120px;
+  /* width: 120px; */
+  height: 200px;
+  border-radius: 20px;
   justify-self: center;
   margin-bottom: var(--mb-0-75);
   transition: .3s;
