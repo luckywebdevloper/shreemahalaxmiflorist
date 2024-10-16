@@ -510,7 +510,7 @@ the website, in dark theme
 
 .product__img{
   position: relative;
-  /* width: 120px; */
+  width: 100%;
   height: 200px;
   border-radius: 20px;
   justify-self: center;
@@ -519,7 +519,7 @@ the website, in dark theme
 }
 .product__img_2{
   position: relative;
-  /* width: 100px; */
+  width: 100%;
   height: 200px;
   border-radius: 20px;
   justify-self: center;
