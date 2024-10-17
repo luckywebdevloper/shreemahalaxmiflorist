@@ -74,7 +74,10 @@
 html{
   scroll-behavior: smooth;
 }
+a.footer_number_link{
+  color: var(--text-color);
 
+}
 body,
 button,
 input,
